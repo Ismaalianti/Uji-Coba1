@@ -1,8 +1,8 @@
 pandas
 numpy
-seaborn
 matplotlib
-joblib
+seaborn
 scikit-learn
-tensorflow
+joblib
+tensorflow-cpu==2.13.0
 streamlit
